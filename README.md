@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Lumos1126
 - 👀 I’m interested in Linux;
-- 🌱 I’m currently learning bash shell python golang
+- 🌱 I’m currently learning Bash, shell, Python, Golang, Rust
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
