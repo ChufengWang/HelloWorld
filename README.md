@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Lumos1126
+- 👋 Hi, I’m @Chufeng
 - 👀 I’m interested in Linux;
 - 🌱 I’m currently learning Bash, shell, Python, Golang, Rust
 - 💞️ I’m looking to collaborate on ...
